@@ -23,11 +23,11 @@ git push -u --all origin
 
 What is free software?
 
-
+software is a copnation of programmies  
 
 What is open source software?
 
-
+is software devilbment.
 
 What's the difference?
 
@@ -43,7 +43,7 @@ What does permissive mean?
 
 What is a license? What's the difference among them?
 
-
+you can use softeare legaly 
 
 When did open source software start?
 
